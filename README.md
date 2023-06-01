@@ -1,9 +1,9 @@
 # Hi, I'm Leah! 👋
 
-A former nonprofit professional, I am excited to begin my new career path as a web developer. I am also passionate about getting involved in my community and have served as Board Secretary for the LGBTQ+ Center Lake County the past 2 years.
+Full stack web developer passionate about creating positive change and making my community a better place for everyone. Through diverse experience in journalism, nonprofit management and marketing, I’ve developed strengths in problem solving, attention to detail, taking initiative, and persistence when seeing problems through to completion. I’m excited to leverage these strengths with my technical skills to contribute to a company that values social impact.
 
-- 🔭 I’m currently working on building an e-commerce store in Ruby on Rails
-- 🌱 I’m currently learning more about SQL and schema design.
+- 🔭 I’m currently working on building brewery app in Ruby on Rails
+- 🌱 I’m currently learning more about Python
 - 📫 How to reach me: perrileah2023@gmail.com or LinkedIn www.linkedin.com/in/leah-perri
 - 💚 Pronouns: they/them
 - 🥋 Fun Fact: I have a blue belt in Brazilian Jiu Jitsu & have been training for over 4 years!
