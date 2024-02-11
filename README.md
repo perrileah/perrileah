@@ -8,4 +8,4 @@ Full stack web developer passionate about creating positive change and making my
 - 💚 Pronouns: they/them
 - 🥋 Fun Fact: I have a blue belt in Brazilian Jiu Jitsu & have been training for over 4 years!
 
-https://github-readme-stats.vercel.app/api/top-langs?username=perrileah&show_icons=true&locale=en&layout=compact&hide=python 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
