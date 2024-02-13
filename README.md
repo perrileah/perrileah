@@ -7,3 +7,5 @@ Full stack web developer passionate about creating positive change and making my
 - 📫 How to reach me: perrileah2023@gmail.com or LinkedIn www.linkedin.com/in/leah-perri
 - 💚 Pronouns: they/them
 - 🥋 Fun Fact: I have a blue belt in Brazilian Jiu Jitsu & have been training for over 4 years!
+
+[![Leah's GitHub stats](https://github-readme-stats.vercel.app/api?username=perrileah)](https://github.com/perrileah/github-readme-stats)
