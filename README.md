@@ -8,6 +8,6 @@ Full stack web developer passionate about creating positive change and making my
 - 💚 Pronouns: they/them
 - 🥋 Fun Fact: I have a blue belt in Brazilian Jiu Jitsu & have been training for over 4 years!
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perrileah&layout=donut-vertical&size_weight=1&count_weight=1)](https://github.com/perrileah/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perrileah&layout=donut-vertical&size_weight=0.5&count_weight=0.5)](https://github.com/perrileah/github-readme-stats) 
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=32a378ca7f939128a8abd827b75c2083&show_owner=true)](https://gist.github.com/perrileah/32a378ca7f939128a8abd827b75c2083) 
