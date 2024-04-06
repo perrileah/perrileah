@@ -1,6 +1,6 @@
 # Hi, I'm Leah! 👋
 
-Detail-oriented full-stack developer and technical writer with strong communication, research, and analytical skills. Leverages English degree paired with experience in software development and marketing to understand and explain complex technical topics in ways that are easy to understand for a variety of audiences. Lifelong learner and excellent troubleshooter who thrives in environments that blend collaborative and independent work. Experience developing software applications from start to finish, working primarily in Ruby on Rails and React.js. Former nonprofit professional who is passionate about social impact and excited to contribute to a company that shares these values.
+Detail-oriented full-stack developer and technical writer with strong communication, research, and analytical skills. Lifelong learner and excellent troubleshooter who thrives in environments that blend collaborative and independent work. Former nonprofit professional who is passionate about social impact and excited to contribute to a company that shares these values.
 
 - 🔭 I’m currently building an app called FoodConnect in Django/Python and Next.js: https://github.com/orgs/FoodConnect/repositories
 - 🌱 I’m currently learning Python, Django, Next.js, prompt engineering and AI fundamentals
