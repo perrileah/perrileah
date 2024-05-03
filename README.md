@@ -3,7 +3,7 @@
 Detail-oriented full-stack developer and technical writer with strong communication, research, and analytical skills. Lifelong learner and excellent troubleshooter who thrives in environments that blend collaborative and independent work. Former nonprofit professional who is passionate about social impact and excited to contribute to a company that shares these values.
 
 - 🔭 I’m currently building an app called FoodConnect in Django/Python and Next.js: https://github.com/orgs/FoodConnect/repositories
-- 🌱 I’m currently learning Python, Django, Next.js, prompt engineering and AI fundamentals
+- 🌱 I’m currently learning Python, Django Rest Framework, Next.js, Typescript, prompt engineering and AI fundamentals
 - 📫 How to reach me: perrileah2023@gmail.com or LinkedIn www.linkedin.com/in/leah-perri
 - 💚 Pronouns: they/them
 - 🥋 Fun Fact: I have a blue belt in Brazilian Jiu Jitsu & have been training for over 4 years!
