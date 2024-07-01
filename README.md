@@ -3,10 +3,10 @@
 Detail-oriented full-stack developer and technical writer with strong communication, research, and analytical skills. Lifelong learner and excellent troubleshooter who thrives in environments that blend collaborative and independent work. Former nonprofit professional who is passionate about social impact and excited to contribute to a company that shares these values.
 
 - 🔭 I’m currently building an app called FoodConnect in Django/Python and Next.js: https://github.com/orgs/FoodConnect/repositories
-- 🌱 I’m currently learning Python, Django Rest Framework, Next.js, Typescript, prompt engineering and AI fundamentals
+- 🌱 I’m currently working towards my AWS Certified Developer Associate certification, reading more about software design patterns, and brushing up on my Spanish-speaking skills
 - 📫 How to reach me: perrileah2023@gmail.com or LinkedIn www.linkedin.com/in/leah-perri
 - 💚 Pronouns: they/them
-- 🥋 Fun Fact: I have a blue belt in Brazilian Jiu Jitsu & have been training for over 4 years!
+- 🥋 Fun Fact: I have a blue belt in Brazilian Jiu Jitsu & have been training for over 5 years!
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perrileah&layout=donut-vertical&size_weight=0.5&count_weight=0.5&langs_count=6)](https://github.com/perrileah/github-readme-stats) 
 
