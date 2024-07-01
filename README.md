@@ -1,4 +1,4 @@
-# Hi, I'm Leah! 👋
+# Hi, I'm Perri! 👋
 
 Detail-oriented full-stack developer and technical writer with strong communication, research, and analytical skills. Lifelong learner and excellent troubleshooter who thrives in environments that blend collaborative and independent work. Former nonprofit professional who is passionate about social impact and excited to contribute to a company that shares these values.
 
