@@ -10,6 +10,6 @@ Detail-oriented full-stack developer and technical writer with strong communicat
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perrileah&layout=donut-vertical&size_weight=0.5&count_weight=0.5&langs_count=6)](https://github.com/perrileah/github-readme-stats) 
 
-![Codewars](https://github.r2v.ch/codewars?user=perrileah&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=perrileah&top_languages=true&hide_position=true)
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=32a378ca7f939128a8abd827b75c2083&show_owner=true)](https://gist.github.com/perrileah/32a378ca7f939128a8abd827b75c2083) 
