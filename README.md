@@ -8,7 +8,7 @@ Detail-oriented full-stack developer and technical writer with strong communicat
 - 💚 Pronouns: they/them
 - 🥋 Fun Fact: I have a blue belt in Brazilian Jiu Jitsu & have been training for over 5 years!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perrileah)](https://github.com/perrileah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perrileah&layout=donut)](https://github.com/perrileah/github-readme-stats)
 
 ![Codewars](https://github.r2v.ch/codewars?user=perrileah&top_languages=true)
 
