@@ -2,7 +2,7 @@
 
 Detail-oriented full-stack developer and technical writer with strong communication, research, and analytical skills. Lifelong learner and excellent troubleshooter who thrives in environments that blend collaborative and independent work. Former nonprofit professional who is passionate about social impact and excited to contribute to a company that shares these values.
 
-- 🔭 I’m currently building an app called FoodConnect in Django/Python and Next.js: https://github.com/orgs/FoodConnect/repositories
+- 🔭 I’m currently building a virtual book club app called BookBuzz in Rails/React.js: https://github.com/orgs/BookBuzz-Virtual-Book-Club/repositories
 - 🌱 I’m currently working towards my AWS Certified Developer Associate certification, reading more about software design patterns, and brushing up on my Spanish-speaking skills
 - 📫 How to reach me: perrileah2023@gmail.com or LinkedIn www.linkedin.com/in/leah-perri
 - 💚 Pronouns: they/them
