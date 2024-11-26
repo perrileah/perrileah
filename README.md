@@ -11,7 +11,7 @@ Detail-oriented full-stack developer and technical writer with strong communicat
 <div align="center">
 
 ## Languages and Tools
-[![Languages and Tools](https://skillicons.dev/icons?i=ruby,rails,js,react,ts,py,django,postgres,html,css,aws,nodejs,docker)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=ruby,rails,js,react,ts,nextjs,py,django,postgres,html,css,aws,nodejs,docker)](https://skillicons.dev)
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="https://github.com/perrileah/github-readme-stats">
