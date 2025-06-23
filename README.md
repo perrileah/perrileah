@@ -1,6 +1,6 @@
 # Hi, I'm Perri! 👋
 
-Detail-oriented full-stack developer with strong communication, research, and analytical skills. Demonstrated ability to collaboratively develop software solutions under time-sensitive deadlines, with proficiency in Ruby on Rails and React.js, and the ability to quickly learn new tools and frameworks. Leverages experience in marketing and nonprofit management to effectively communicate and translate software solutions into business value. AWS Certified Developer Associate. Computer Science Master's student at University of Chicago.
+Detail-oriented full-stack developer and lifelong learner with strong communication, research, and analytical skills. AWS Certified Developer Associate. Computer Science Master's student at University of Chicago.
 
 - 🔭 I’m currently building a virtual book club app called BookBuzz in Rails/React.js: https://github.com/orgs/BookBuzz-Virtual-Book-Club/repositories
 - 🌱 I’m currently taking Concepts of Programming at UChicago and brushing up on my Python skills
