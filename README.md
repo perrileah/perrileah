@@ -2,7 +2,6 @@
 
 Detail-oriented full-stack developer and lifelong learner with strong communication, research, and analytical skills. AWS Certified Developer Associate. Computer Science Master's student at University of Chicago.
 
-- 🔭 I’m currently building a virtual book club app called BookBuzz in Rails/React.js: https://github.com/orgs/BookBuzz-Virtual-Book-Club/repositories
 - 🌱 I’m currently taking Concepts of Programming at UChicago and brushing up on my Python skills
 - 📫 How to reach me: perrileah2023@gmail.com or LinkedIn www.linkedin.com/in/leah-perri
 - 💚 Pronouns: they/them
@@ -15,7 +14,10 @@ Detail-oriented full-stack developer and lifelong learner with strong communicat
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="https://github.com/perrileah/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=perrileah&show=prs_merged,prs_merged_percentage&show_icons=true" alt="Anurag's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perrileah&layout=compact&size_weight=0.5&count_weight=0.5&hide=css,html,scss,shell,Dockerfile" alt="Perri's Top Languages" />
+  </a>
+  <a href="https://github.com/perrileah/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=perrileah&show=prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&hide=stars,issues,contribs" alt="Perri's GitHub stats" />
   </a>
   <img src="https://github.r2v.ch/codewars?user=perrileah&top_languages=true" alt="Codewars Stats" />
   <a href="https://gist.github.com/perrileah/32a378ca7f939128a8abd827b75c2083">
