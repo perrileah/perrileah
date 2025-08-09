@@ -9,6 +9,11 @@ Detail-oriented full-stack developer and lifelong learner with strong communicat
 
 <div align="center">
 
+## Certifications
+[![AWS Certified Developer](https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/e0f9420a-e951-4ea8-9471-85e00bd27bf5/public_url)
+[![Artificial Intelligence Foundational](https://images.credly.com/size/150x150/images/d87a14ce-7058-4b0d-a66d-d178a7658ba5/image.png)](https://www.credly.com/badges/6b40ee85-6e0a-41f6-8730-2eedeb168aa9/public_url)
+[![Artificial Intelligence Enablement](https://images.credly.com/size/150x150/images/4bb166fe-3c14-486d-9bfa-4fd289f88e1f/image.png)](https://www.credly.com/badges/bb039274-becb-4a54-bdfe-b5ff10a47f85/public_url)
+
 ## Languages and Tools
 [![Languages and Tools](https://skillicons.dev/icons?i=ruby,rails,js,react,ts,nextjs,py,django,postgres,html,css,aws,nodejs,docker)](https://skillicons.dev)
 
