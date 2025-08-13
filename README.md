@@ -19,7 +19,7 @@ Detail-oriented full-stack developer and lifelong learner with strong communicat
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="https://github.com/perrileah/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perrileah&layout=compact&size_weight=0.5&count_weight=0.5&hide=css,html,scss,shell,Dockerfile" alt="Perri's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perrileah&layout=compact&size_weight=0&count_weight=1&hide=css,html,scss,shell,Dockerfile" alt="Perri's Top Languages" />
   </a>
   <a href="https://github.com/perrileah/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=perrileah&show=prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&hide=stars,issues,contribs" alt="Perri's GitHub stats" />
