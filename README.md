@@ -2,7 +2,8 @@
 
 Detail-oriented full-stack developer and lifelong learner with strong communication, research, and analytical skills. AWS Certified Developer Associate. Computer Science Master's student at University of Chicago.
 
-- 🌱 I’m currently taking Concepts of Programming at UChicago and brushing up on my Python skills
+- 🌱 I’m currently brushing up on my Python skills, taking banjo lessons, and ramping up on my AI skills
+- 🎓 MPCS course learnings: Mathematics for Computer Science
 - 📫 How to reach me: perrileah2023@gmail.com or LinkedIn www.linkedin.com/in/leah-perri
 - 💚 Pronouns: they/them
 - 🥋 Fun Fact: I have a blue belt in Brazilian Jiu Jitsu & have been training for over 5 years!
