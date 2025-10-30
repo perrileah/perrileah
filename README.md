@@ -16,7 +16,7 @@ Detail-oriented full-stack developer and lifelong learner with strong communicat
 [![Artificial Intelligence Enablement](https://images.credly.com/size/150x150/images/4bb166fe-3c14-486d-9bfa-4fd289f88e1f/image.png)](https://www.credly.com/badges/bb039274-becb-4a54-bdfe-b5ff10a47f85/public_url)
 
 ## Languages and Tools
-[![Languages and Tools](https://skillicons.dev/icons?i=ruby,rails,js,react,ts,nextjs,py,django,postgres,html,css,aws,nodejs,docker)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=ruby,java,py,js,ts,rails,react,nextjs,django,postgres,html,css,aws,nodejs,docker)](https://skillicons.dev)
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="https://github.com/perrileah/github-readme-stats">
