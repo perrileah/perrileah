@@ -3,7 +3,7 @@
 Detail-oriented full-stack developer and lifelong learner with strong communication, research, and analytical skills. AWS Certified Developer Associate. Computer Science Master's student at University of Chicago.
 
 - 🌱 I’m currently learning Java and ramping up on my AI skills
-- 🎓 MPCS course learnings: Java Programming
+- 🎓 MPCS course learnings: Algorithms
 - 📫 How to reach me: perrileah2023@gmail.com or LinkedIn www.linkedin.com/in/leah-perri
 - 💚 Pronouns: they/them
 - 🥋 Fun Fact: I have a blue belt in Brazilian Jiu Jitsu & have been training for over 5 years!
